@@ -8,3 +8,4 @@ Host: api.diyarbek.uz
   "text": "Hello world"<br>
 }<br>**
 </h4>
+<p>Basqa tillerda qollaniw ushin bazi misallardi kodlarda koriwinizge boladi</p>
